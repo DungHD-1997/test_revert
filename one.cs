@@ -3,5 +3,5 @@ if(a == 0){
 }
 else{
 //thuc hien b function
-//add line
+
 }
