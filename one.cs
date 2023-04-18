@@ -3,4 +3,10 @@ if(a == 0){
 }
 else{
 //thuc hien b function
+// add line 020
+// add line 03
+// add line 04
+// line 05
+// line 06
+// line 07
 }
