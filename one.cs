@@ -3,5 +3,4 @@ if(a == 0){
 }
 else{
 //thuc hien b function
-//thuc hien thay doi for revert
 }
