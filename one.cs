@@ -3,6 +3,6 @@ if(a == 0){
 }
 else{
 //thuc hien b function
-// add line 02
+// add line 020
 // add line 03
 }
